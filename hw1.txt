@@ -1,0 +1,25 @@
+# Kullanıcıdan iki sınav ve bir performans notu girmesini isteyiniz. Girilen 3 notun ortalaması 50 ve daha büyükse 
+“Başarılı”; değilse “Başarısız” çıktıları veren kodu yazınız.
+
+
+
+ALGORİTMA
+
+
+kullanıcıdan şu şekilde
+sınav1notu
+sınav2notu
+performans
+isteyiniz
+
+
+
+daha sonra
+ortalama alınız(sınav1notu+sınav2notu+performans)/3
+
+eğer   ortalama 50 den düşük ise 
+“Başarısız” yaz
+
+değilse
+“Başarılı” yaz
+

@@ -1,0 +1,6 @@
+işlemci = int(input("işlemcinizi giriniz = i"))
+ram = int(input("raminiz kaç gb="))
+if işlemci >= 7 and ram >= 8 :
+    print('kurulum uygun')
+else :
+    print('kurulum uygun değil')

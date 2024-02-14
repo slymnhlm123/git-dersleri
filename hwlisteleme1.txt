@@ -1,0 +1,9 @@
+#Elemanları haftanın günleri olan bir liste oluşturunuz ve ekrana yazdırınız.
+
+
+
+
+ALGORİTMA
+
+
+haftanın günleri liste şeklinde yazılacak sonra ise girilen liste sayısı ekrana yazdırılacak
