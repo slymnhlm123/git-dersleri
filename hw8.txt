@@ -1,0 +1,14 @@
+ Girilen plaka kodu 06 ise ekrana Ankara, 07 ise Antalya, 08 ise Artvin, bunların dışında girilen tüm değerlerde ise 
+ Türkiye çıktısı veren kodu yazınız.
+ek istek 
+sinop 57, sivas 58 , beşiktaş 1903
+
+ALGORİTMA
+
+bir sayı iste
+ 81den fazla ise ve 1903e eşit ise
+  eğer 06,07,08,57,58 ve 1903 ise
+  06 ise ekrana Ankara, 07 ise Antalya, 08 ise Artvin,57 ise Sinop,58 ise Sivas ve 1903 ise beşiktaş
+  yaz
+  degil ise “Türkiye” çıktısı ver
+değil ise "bu bir plaka kodu değıl"

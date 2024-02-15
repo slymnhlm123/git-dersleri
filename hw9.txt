@@ -1,0 +1,14 @@
+ Kullanıcı tarafından girilen hava sıcaklığı 5 °C ve altındaysa “Soğuk”;
+  6-14 °C arasındaysa “Ilık”; 15 °C ve daha fazlaysa “Sıcak” çıktılarını veren kodu yazınız. 
+
+
+ALGORİTMA
+
+hava sıcaklıgı iste
+
+eğer 5 ve altındaysa
+ soguk cıktısı ver
+6-14 arası ise
+ ılık çıktısı ver
+15 ve ustu ise
+ sıcak cıktısı ver

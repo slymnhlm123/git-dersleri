@@ -1,0 +1,20 @@
+ Üçgenler kenar uzunluklarına göre üçe ayrılmaktadır:
+  Eşkenar, İkizkenar ve Çeşitkenar. Kullanıcının girdiği 3 kenar uzunluğuna göre üçgenin türünü ekrana yazdırınız. 
+
+  ALGORİTMA
+
+  açı 1i iste
+  açı 2yi iste
+  açı 3ü iste
+
+  açıları topla
+
+  eğer toplamı 180 ise 
+     tüm açılar eşit ise 
+     eşkenar üçgen cıktısı ver
+
+     ikisi eşit olup biri farklı olursa
+     ikizkenar üçgen çıktısı ver
+
+     tüm sayılar farklı ise
+     çeşitkenar üçgen çıktısı ver
